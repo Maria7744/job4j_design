@@ -80,7 +80,7 @@
       <workItem from="1665316953583" duration="168000" />
       <workItem from="1665317144596" duration="464000" />
       <workItem from="1665330689997" duration="460000" />
-      <workItem from="1665345639009" duration="1245000" />
+      <workItem from="1665345639009" duration="1430000" />
     </task>
     <task id="LOCAL-00001" summary="Задача где отправить пом">
       <created>1665209661343</created>
@@ -110,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665317020942</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Задача где отправить пом">
+      <created>1665347130456</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665347130456</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,11 +180,11 @@
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="686" y="333" key="Github.ShareDialog/0.23.1440.813@0.23.1440.813" timestamp="1665158168092" />
-    <state x="426" y="82" width="800" height="328" key="Vcs.Push.Dialog.v2" timestamp="1665346605319">
+    <state x="426" y="82" width="800" height="328" key="Vcs.Push.Dialog.v2" timestamp="1665347156398">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="426" y="65" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1665317027580" />
-    <state x="426" y="82" width="800" height="328" key="Vcs.Push.Dialog.v2/0.23.1440.813@0.23.1440.813" timestamp="1665346605319" />
+    <state x="426" y="82" width="800" height="328" key="Vcs.Push.Dialog.v2/0.23.1440.813@0.23.1440.813" timestamp="1665347156398" />
     <state x="426" y="82" key="Vcs.Push.Dialog.v2/0.23.1440.814@0.23.1440.814" timestamp="1665345723954" />
     <state x="648" y="143" width="356" height="123" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1665345921378">
       <screen x="0" y="23" width="1440" height="813" />
