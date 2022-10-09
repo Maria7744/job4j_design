@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0646caa-da07-430a-9b7a-2695ed5e274b" name="Default Changelist" comment="Задача где отправить пом" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2FlWmkflpqsRnQEQIQWjL4K5ePM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowGit.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="job4j_design" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0646caa-da07-430a-9b7a-2695ed5e274b" name="Default Changelist" comment="" />
+      <created>1665067311766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665067311766</updated>
+      <workItem from="1665067318144" duration="265000" />
+      <workItem from="1665144465906" duration="37000" />
+      <workItem from="1665144507872" duration="9000" />
+      <workItem from="1665157630274" duration="282000" />
+      <workItem from="1665158040804" duration="908000" />
+      <workItem from="1665208412687" duration="1419000" />
+      <workItem from="1665212674244" duration="952000" />
+      <workItem from="1665315846054" duration="389000" />
+      <workItem from="1665316953583" duration="168000" />
+      <workItem from="1665317144596" duration="464000" />
+      <workItem from="1665330689997" duration="460000" />
+      <workItem from="1665345639009" duration="1245000" />
+    </task>
+    <task id="LOCAL-00001" summary="Задача где отправить пом">
+      <created>1665209661343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665209661344</updated>
+    </task>
+    <task id="LOCAL-00002" summary="checstile">
+      <created>1665212989344</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665212989344</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Задача где отправить пом">
+      <created>1665315955304</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665315955305</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Задача где отправить пом">
+      <created>1665317020942</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665317020942</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="checstile" />
+    <MESSAGE value="Задача где отправить пом" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача где отправить пом" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="603" y="75" key="#Notifications" timestamp="1665346573447">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="603" y="75" key="#Notifications/0.23.1440.813@0.23.1440.813" timestamp="1665346573447" />
+    <state x="291" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1665157811095">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="291" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.814@0.23.1440.814" timestamp="1665157811095" />
+    <state x="686" y="333" key="Github.ShareDialog" timestamp="1665158168092">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="686" y="333" key="Github.ShareDialog/0.23.1440.813@0.23.1440.813" timestamp="1665158168092" />
+    <state x="426" y="82" width="800" height="328" key="Vcs.Push.Dialog.v2" timestamp="1665346605319">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="426" y="65" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1665317027580" />
+    <state x="426" y="82" width="800" height="328" key="Vcs.Push.Dialog.v2/0.23.1440.813@0.23.1440.813" timestamp="1665346605319" />
+    <state x="426" y="82" key="Vcs.Push.Dialog.v2/0.23.1440.814@0.23.1440.814" timestamp="1665345723954" />
+    <state x="648" y="143" width="356" height="123" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1665345921378">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="648" y="133" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900@0.0.1440.900" timestamp="1665330132369" />
+    <state x="648" y="143" width="356" height="123" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.813@0.23.1440.813" timestamp="1665345921378" />
+    <state x="648" y="143" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.814@0.23.1440.814" timestamp="1665209344944" />
+    <state x="491" y="160" width="670" height="676" key="search.everywhere.popup" timestamp="1665158125751">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="491" y="160" width="670" height="676" key="search.everywhere.popup/0.23.1440.813@0.23.1440.813" timestamp="1665158125751" />
+  </component>
+</project>
