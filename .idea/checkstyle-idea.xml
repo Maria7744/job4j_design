@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CheckStyle-IDEA">
     <option name="configuration">
+
       <map>
         <entry key="checkstyle-version" value="8.29" />
         <entry key="copy-libs" value="false" />

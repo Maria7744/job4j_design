@@ -86,6 +86,7 @@
             <goals>
               <goal>report</goal>
             </goals>
+
           </execution>
         </executions>
       </plugin>
