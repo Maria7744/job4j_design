@@ -16,7 +16,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0646caa-da07-430a-9b7a-2695ed5e274b" name="Default Changelist" comment="Задача где отправить пом" />
+    <list default="true" id="c0646caa-da07-430a-9b7a-2695ed5e274b" name="Default Changelist" comment="Задача где отправить пом">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,6 +83,9 @@
       <workItem from="1665317144596" duration="464000" />
       <workItem from="1665330689997" duration="460000" />
       <workItem from="1665345639009" duration="1430000" />
+      <workItem from="1665347187340" duration="236000" />
+      <workItem from="1665404476942" duration="30000" />
+      <workItem from="1665405393594" duration="757000" />
     </task>
     <task id="LOCAL-00001" summary="Задача где отправить пом">
       <created>1665209661343</created>
@@ -117,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665347130456</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Задача где отправить пом">
+      <created>1665347346730</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665347346730</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,17 +192,21 @@
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="686" y="333" key="Github.ShareDialog/0.23.1440.813@0.23.1440.813" timestamp="1665158168092" />
-    <state x="426" y="82" width="800" height="328" key="Vcs.Push.Dialog.v2" timestamp="1665347156398">
+    <state x="426" y="82" width="800" height="328" key="Vcs.Push.Dialog.v2" timestamp="1665405423108">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="426" y="65" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1665317027580" />
-    <state x="426" y="82" width="800" height="328" key="Vcs.Push.Dialog.v2/0.23.1440.813@0.23.1440.813" timestamp="1665347156398" />
+    <state x="426" y="82" width="800" height="328" key="Vcs.Push.Dialog.v2/0.23.1440.813@0.23.1440.813" timestamp="1665405423108" />
     <state x="426" y="82" key="Vcs.Push.Dialog.v2/0.23.1440.814@0.23.1440.814" timestamp="1665345723954" />
-    <state x="648" y="143" width="356" height="123" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1665345921378">
+    <state x="508" y="126" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1665347335437">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="508" y="126" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.813@0.23.1440.813" timestamp="1665347335437" />
+    <state x="648" y="143" width="356" height="123" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1665406161692">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="648" y="133" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900@0.0.1440.900" timestamp="1665330132369" />
-    <state x="648" y="143" width="356" height="123" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.813@0.23.1440.813" timestamp="1665345921378" />
+    <state x="648" y="143" width="356" height="123" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.813@0.23.1440.813" timestamp="1665406161692" />
     <state x="648" y="143" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.814@0.23.1440.814" timestamp="1665209344944" />
     <state x="491" y="160" width="670" height="676" key="search.everywhere.popup" timestamp="1665158125751">
       <screen x="0" y="23" width="1440" height="813" />
