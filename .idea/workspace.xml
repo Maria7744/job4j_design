@@ -16,9 +16,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0646caa-da07-430a-9b7a-2695ed5e274b" name="Default Changelist" comment="Задача где отправить пом">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c0646caa-da07-430a-9b7a-2695ed5e274b" name="Default Changelist" comment="Задача где отправить пом" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +83,7 @@
       <workItem from="1665345639009" duration="1430000" />
       <workItem from="1665347187340" duration="236000" />
       <workItem from="1665404476942" duration="30000" />
-      <workItem from="1665405393594" duration="757000" />
+      <workItem from="1665405393594" duration="852000" />
     </task>
     <task id="LOCAL-00001" summary="Задача где отправить пом">
       <created>1665209661343</created>
@@ -129,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665347346730</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Задача где отправить пом">
+      <created>1665406180056</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665406180056</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +189,10 @@
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="603" y="75" key="#Notifications/0.23.1440.813@0.23.1440.813" timestamp="1665346573447" />
+    <state x="392" y="23" key="#XML" timestamp="1665406245814">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="392" y="23" key="#XML/0.23.1440.813@0.23.1440.813" timestamp="1665406245814" />
     <state x="291" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1665157811095">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
@@ -192,11 +201,11 @@
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="686" y="333" key="Github.ShareDialog/0.23.1440.813@0.23.1440.813" timestamp="1665158168092" />
-    <state x="426" y="82" width="800" height="328" key="Vcs.Push.Dialog.v2" timestamp="1665405423108">
+    <state x="426" y="82" width="800" height="328" key="Vcs.Push.Dialog.v2" timestamp="1665406188681">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="426" y="65" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1665317027580" />
-    <state x="426" y="82" width="800" height="328" key="Vcs.Push.Dialog.v2/0.23.1440.813@0.23.1440.813" timestamp="1665405423108" />
+    <state x="426" y="82" width="800" height="328" key="Vcs.Push.Dialog.v2/0.23.1440.813@0.23.1440.813" timestamp="1665406188681" />
     <state x="426" y="82" key="Vcs.Push.Dialog.v2/0.23.1440.814@0.23.1440.814" timestamp="1665345723954" />
     <state x="508" y="126" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1665347335437">
       <screen x="0" y="23" width="1440" height="813" />
