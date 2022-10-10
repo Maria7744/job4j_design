@@ -36,10 +36,7 @@
       <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.job4j.AppTest.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/surefire-reports/ru.job4j.AppTest.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/test-classes/ru/job4j/AppTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/job4j_design.iml" beforeDir="false" afterPath="$PROJECT_DIR$/job4j_design.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +110,7 @@
       <workItem from="1665404476942" duration="30000" />
       <workItem from="1665405393594" duration="852000" />
       <workItem from="1665406344366" duration="946000" />
-      <workItem from="1665408214753" duration="428000" />
+      <workItem from="1665408214753" duration="769000" />
     </task>
     <task id="LOCAL-00001" summary="Задача где отправить пом">
       <created>1665209661343</created>
@@ -178,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665406448475</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Задача где отправить пом">
+      <created>1665413674012</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1665413674012</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,11 +250,11 @@
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="686" y="333" key="Github.ShareDialog/0.23.1440.813@0.23.1440.813" timestamp="1665158168092" />
-    <state x="426" y="82" width="800" height="328" key="Vcs.Push.Dialog.v2" timestamp="1665408314098">
+    <state x="426" y="82" width="800" height="328" key="Vcs.Push.Dialog.v2" timestamp="1665413678156">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="426" y="65" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1665317027580" />
-    <state x="426" y="82" width="800" height="328" key="Vcs.Push.Dialog.v2/0.23.1440.813@0.23.1440.813" timestamp="1665408314098" />
+    <state x="426" y="82" width="800" height="328" key="Vcs.Push.Dialog.v2/0.23.1440.813@0.23.1440.813" timestamp="1665413678156" />
     <state x="426" y="82" key="Vcs.Push.Dialog.v2/0.23.1440.814@0.23.1440.814" timestamp="1665345723954" />
     <state x="508" y="126" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1665406672050">
       <screen x="0" y="23" width="1440" height="813" />
